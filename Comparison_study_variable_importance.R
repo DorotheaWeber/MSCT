@@ -37,7 +37,7 @@ source( "caret_boosted_logicreg.R" )
 
 # methods parallel with caretEnsemble
 
-load( "Subsample.RData" ) # index list for my_control
+load( "Subsample2.RData" ) # index list for my_control
 
 set.seed(17)
 
